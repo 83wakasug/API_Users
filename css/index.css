@@ -189,8 +189,9 @@ h2{
 .div_detail_title .icon:hover {
   color: #ddd;
 }
-@media (max-width: 558px) {
-  .div_container{
+
+@media screen and (max-width: 600px) {
+  .div_con{
    width:100%;
 
   }
